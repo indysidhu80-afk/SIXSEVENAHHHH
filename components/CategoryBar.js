@@ -1,1 +1,0 @@
-// Redundant file, using CategoryBar.tsx instead
