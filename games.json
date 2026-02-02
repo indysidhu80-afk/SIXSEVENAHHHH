@@ -1,0 +1,53 @@
+
+[
+  {
+    "id": "1",
+    "title": "Slope Challenge",
+    "description": "Speed down the neon slopes and avoid obstacles in this fast-paced runner.",
+    "thumbnail": "https://picsum.photos/seed/slope/600/400",
+    "iframeUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "category": "Action",
+    "isFeatured": true
+  },
+  {
+    "id": "2",
+    "title": "Retro Grid Runner",
+    "description": "A neon-soaked retro adventure through the digital frontier.",
+    "thumbnail": "https://picsum.photos/seed/retro/600/400",
+    "iframeUrl": "https://www.google.com/logos/2010/pacman10-i.html",
+    "category": "Retro",
+    "isFeatured": true
+  },
+  {
+    "id": "3",
+    "title": "Logic Gates",
+    "description": "Master the circuits in this intricate puzzle game.",
+    "thumbnail": "https://picsum.photos/seed/logic/600/400",
+    "iframeUrl": "https://poki.com/en/g/2048",
+    "category": "Puzzle"
+  },
+  {
+    "id": "4",
+    "title": "Tactical Strike",
+    "description": "Deploy your troops and capture the enemy flag.",
+    "thumbnail": "https://picsum.photos/seed/strike/600/400",
+    "iframeUrl": "https://poki.com/en/g/stickman-hook",
+    "category": "Strategy"
+  },
+  {
+    "id": "5",
+    "title": "Pro Hoops",
+    "description": "Realistic physics-based basketball simulation.",
+    "thumbnail": "https://picsum.photos/seed/hoops/600/400",
+    "iframeUrl": "https://poki.com/en/g/basketball-stars",
+    "category": "Sports"
+  },
+  {
+    "id": "6",
+    "title": "Neon Dash",
+    "description": "Dash through the geometry and survive as long as you can.",
+    "thumbnail": "https://picsum.photos/seed/dash/600/400",
+    "iframeUrl": "https://poki.com/en/g/geometry-dash",
+    "category": "Action"
+  }
+]

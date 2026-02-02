@@ -1,0 +1,1 @@
+// Redundant file, using index.tsx instead
